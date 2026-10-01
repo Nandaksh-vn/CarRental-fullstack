@@ -105,6 +105,7 @@ JWT_SECRET=your_secret_key
 
 * Open browser and go to:
   `http://localhost:3000` (or Vite default port)
+  (deployed :car-rental-fullstack-2f3mj7orw-nandaksh.vercel.app)
 
 * Register/Login as user
 
